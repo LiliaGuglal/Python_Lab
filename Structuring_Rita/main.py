@@ -9,7 +9,7 @@ def print_pharmacy_stock(stock: List[Medicine]):
 
 
 pharmacy_stock = [
-    Antibiotic(name="Амоксил", quantity=20, price=150.75),
+    Antibiotic(name="Ноу нейм антибіотик", quantity=20, price=150.75),
     Vitamin(name="Вітамін C", quantity=100, price=80.00),
     Vaccine(name="Вакцина", quantity=50, price=500.50)
 ]
