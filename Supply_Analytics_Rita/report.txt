@@ -1,0 +1,2 @@
+Mean Price: 4.52
+Median Quantity: 100.00
